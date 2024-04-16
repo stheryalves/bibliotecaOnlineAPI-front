@@ -31,8 +31,8 @@ Antes de começar, certifique-se de ter instalado em sua máquina:<br>
 * Após a conclusão da instalação das dependências, você pode iniciar o servidor de desenvolvimento localmente. Você pode fazer isso executando o comando 'npm run dev'.<br>
 * O servidor de desenvolvimento será iniciado e o projeto React será aberto automaticamente no seu navegador padrão. Se não abrir automaticamente, você pode acessá-lo digitando http://localhost:5173/ na barra de endereços do seu navegador.<br>
 
-Link do site: [Biblioteca Online](https://bibliotecaonlineapi.netlify.app/) <br>
-* A API está no ar no endereço: [API Biblioteca Online](https://biblioteca-online-api-back.vercel.app)
+Link do site: [Biblioteca Online](https://bibliotecaonlineapi.netlify.app/livros) <br>
+* A API está no ar no endereço: [API Biblioteca Online](https://biblioteca-online-api-back.vercel.app/livros)
 
 ## Contato:<br>
 Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
