@@ -2,8 +2,10 @@
 
 ## Descrição: 
 Aplicação em React Vite desenvolvida para listar, editar, deletar e visualizar livros cadastrados em um banco de dados, <br>
-com o objetivo de colocar em prática a biblioteca de desenvolvimento de interfaces React.js.<br>
-
+com o objetivo de colocar em prática a biblioteca de desenvolvimento de interfaces React.js.
+<br><br>
+<img width="50%" src="https://github.com/stheryalves/bibliotecaOnlineAPI-front/assets/134507985/0620ace7-e512-4d78-8aa8-100bd0b4619e">
+<br><br>
 Como usar: Para entrar na rota de listagem de livros é preciso clicar em 'livros' no menu superior. <br>
 Aparecerá um botão para o cadastro de livro. <br>
 Ao clicar no botão é necessário preencher os campos: id, título, número de páginas, ISBN e editora. <br>
@@ -31,7 +33,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:<br>
 * Após a conclusão da instalação das dependências, você pode iniciar o servidor de desenvolvimento localmente. Você pode fazer isso executando o comando 'npm run dev'.<br>
 * O servidor de desenvolvimento será iniciado e o projeto React será aberto automaticamente no seu navegador padrão. Se não abrir automaticamente, você pode acessá-lo digitando http://localhost:5173/ na barra de endereços do seu navegador.<br>
 
-Link do site: [Biblioteca Online](https://bibliotecaonlineapi.netlify.app/livros) <br>
+Link do site: [Biblioteca Online](https://bibliotecaonlineapi.netlify.app) <br>
 * A API está no ar no endereço: [API Biblioteca Online](https://biblioteca-online-api-back.vercel.app/livros)
 
 ## Contato:<br>
